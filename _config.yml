@@ -38,14 +38,19 @@ social_media:
   linkedin: lohmankevin
   # mastodon: your_username
   medium: badpirate
-  stackoverflow: 285694
+  stackoverflow: 285694/badpirate?tab=profile
   # telegram: your_username
   twitter: badpirate
+  resume: http://kevin.lohman.me
   # unsplash: your_username
   # vk: your_username
-  # website: https://www.badpirate.net
+  # website: https://kevin.lohman.me
   # youtube: your_username
 
 topics:
+  - name: UnifyID iOS SDK
+    web_url: https://developer.unify.id/docs/ios_sdk
+    image_url: assets/unifyid.svg
   - name: Windfall
     web_url: https://windfall.badpirate.net
+    image_url: assets/windfall.png
