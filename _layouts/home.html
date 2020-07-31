@@ -8,8 +8,8 @@
       {{ content }}
     </div>
 
-    {% if site.topics %}
-      <div class="my-6">
+    {% if site.active or site.past %}
+    <div class="my-6">
         {% include interests.html %}
       </div>
     {% endif %}
@@ -38,7 +38,7 @@
           </div>
         {% endunless %}
 
-        {% if site.topics %}
+        {% if site.active or site.past %}
           {% include interests.html %}
         {% endif %}
 

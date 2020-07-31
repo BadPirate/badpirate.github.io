@@ -59,3 +59,12 @@ past:
   - name: UnifyID iOS SDK
     web_url: https://developer.unify.id/docs/ios_sdk
     image_url: assets/unifyid.svg
+  - name: Facebook
+    web_url: https://www.facebook.com
+    image_url: assets/fb.png
+  - name: Blackberry
+    web_url: https://apps.apple.com/us/app/blackberry-work/id890656632
+    image_url: assets/bbwork.png
+  - name: US Navy, ET2
+    web_url: https://en.wikipedia.org/wiki/Lockheed_P-3_Orion
+    image_url: assets/lickme.png
